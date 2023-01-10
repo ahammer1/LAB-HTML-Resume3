@@ -1,0 +1,24 @@
+body {
+  background-color: rgb(235, 133, 96);
+}
+h2{
+  color: teal
+}
+
+article{
+  padding: 30px
+}
+
+#articleOne{
+  font-family: 'Times New Roman';
+  border: 3px solid yellowgreen;
+}
+#articleTwo{
+  font-family: Arial;
+  border: 5px dotted gray;
+}
+
+#articleThree{
+  font-family: 'Trebuchet MS';
+  border: 7px dashed burlywood;
+}
